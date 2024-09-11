@@ -1,4 +1,4 @@
-package dev.question;
+package dev.questao3;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

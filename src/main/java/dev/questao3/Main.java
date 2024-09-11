@@ -1,10 +1,6 @@
-package dev.question;
+package dev.questao3;
 
 
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.Formatter;
 import java.util.List;
 
 public class Main {
